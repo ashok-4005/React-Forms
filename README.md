@@ -6,4 +6,4 @@ This project is a basic React application that demonstrates how to handle form s
 
 Output Screenshot
 
-![]()
+![](output.png)
